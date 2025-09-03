@@ -1,5 +1,5 @@
 # PruebaSemestre2026-1
 ## Descripcion
 Repositorio para las pruebas de GitHub del semestre 2026-1
-##Colaboradores
+## Colaboradores
 Yo :).
